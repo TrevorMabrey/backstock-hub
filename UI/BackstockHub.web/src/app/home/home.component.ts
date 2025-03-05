@@ -41,7 +41,11 @@ import { Observable } from 'rxjs';
                    <P>Items in Box: {{item.itemsInBox}}</P>
                    <div>
                     <button type="button" class="text-red-600" (click)="onDelete(item.id)">Delete</button>
-                </div>
+                  </div>
+                  <div>
+                    <button type="button" class="text-blue-600" >Details</button>
+                  </div>
+
                 </article>
                 
  
@@ -59,7 +63,7 @@ import { Observable } from 'rxjs';
 })
 export class HomeComponent {
   
-  title = 'BackstockHub';
+  
   items$: Observable<Item[]>;
   itemInput = new FormGroup({
     name: new FormControl<string>(""),
@@ -103,5 +107,6 @@ export class HomeComponent {
 
   getItems(): Observable<Item[]> {
   return this.http.get<Item[]>("https://localhost:7211/api/Items")
-}
+  }
+  
 }
