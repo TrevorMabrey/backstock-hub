@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|solutionrelative:backstock-hub\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|c:\\users\\user\\desktop\\backstock-hub\\backstock-hub\\api\\backstock-hub\\backstock-hub\\data\\backstock_hubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|solutionrelative:backstock-hub\\data\\backstock_hubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|c:\\users\\user\\desktop\\backstock-hub\\backstock-hub\\api\\backstock-hub\\backstock-hub\\backstock-hub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|solutionrelative:backstock-hub\\backstock-hub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|c:\\users\\user\\desktop\\backstock-hub\\backstock-hub\\api\\backstock-hub\\backstock-hub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|solutionrelative:backstock-hub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|c:\\users\\user\\desktop\\backstock-hub\\backstock-hub\\api\\backstock-hub\\backstock-hub\\models\\domain\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|solutionrelative:backstock-hub\\models\\domain\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|c:\\users\\user\\desktop\\backstock-hub\\backstock-hub\\api\\backstock-hub\\backstock-hub\\data\\backstock_hubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|solutionrelative:backstock-hub\\data\\backstock_hubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|c:\\users\\user\\desktop\\backstock-hub\\backstock-hub\\api\\backstock-hub\\backstock-hub\\backstock-hub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|solutionrelative:backstock-hub\\backstock-hub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AddItemRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Models\\AddItemRequestDTO.cs",
               "RelativeDocumentMoniker": "backstock-hub\\Models\\AddItemRequestDTO.cs",
@@ -46,7 +46,8 @@
               "RelativeToolTip": "backstock-hub\\Models\\AddItemRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T08:18:56.591Z"
+              "WhenOpened": "2025-03-04T08:18:56.591Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,14 +57,14 @@
               "RelativeDocumentMoniker": "backstock-hub\\Controllers\\ItemsController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Controllers\\ItemsController.cs",
               "RelativeToolTip": "backstock-hub\\Controllers\\ItemsController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T09:26:18.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Program.cs",
               "RelativeDocumentMoniker": "backstock-hub\\Program.cs",
@@ -71,11 +72,12 @@
               "RelativeToolTip": "backstock-hub\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:16:28.209Z"
+              "WhenOpened": "2025-03-03T09:16:28.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "backstock_hubDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Data\\backstock_hubDbContext.cs",
               "RelativeDocumentMoniker": "backstock-hub\\Data\\backstock_hubDbContext.cs",
@@ -83,11 +85,12 @@
               "RelativeToolTip": "backstock-hub\\Data\\backstock_hubDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:12:39.884Z"
+              "WhenOpened": "2025-03-03T09:12:39.884Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "backstock-hub.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\backstock-hub.csproj",
               "RelativeDocumentMoniker": "backstock-hub\\backstock-hub.csproj",
@@ -95,11 +98,12 @@
               "RelativeToolTip": "backstock-hub\\backstock-hub.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-03T09:11:45.131Z"
+              "WhenOpened": "2025-03-03T09:11:45.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Models\\Domain\\Item.cs",
               "RelativeDocumentMoniker": "backstock-hub\\Models\\Domain\\Item.cs",

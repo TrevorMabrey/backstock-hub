@@ -1,14 +1,16 @@
 import { FormsModule, FormGroup, FormControl, ReactiveFormsModule } from '@angular/forms';
 import { AsyncPipe} from '@angular/common';
 import { HttpClient } from '@angular/common/http';
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 
 import { Item } from '../../models/item.model';
 import { Observable } from 'rxjs';
+import { RouterModule } from '@angular/router';
+import { StockService } from '../stock.service';
 
 @Component({
   selector: 'app-home',
-  imports: [AsyncPipe, FormsModule, ReactiveFormsModule],
+  imports: [AsyncPipe, FormsModule, ReactiveFormsModule, RouterModule],
   template: `
 
 <form (ngSubmit)="onFormSubmit()" [formGroup]="itemInput">
@@ -43,7 +45,7 @@ import { Observable } from 'rxjs';
                     <button type="button" class="text-red-600" (click)="onDelete(item.id)">Delete</button>
                   </div>
                   <div>
-                    <button type="button" class="text-blue-600" >Details</button>
+                    <button type="button" class="text-blue-600" [routerLink]="['/details', item.id]" >Details</button>
                   </div>
 
                 </article>
@@ -63,7 +65,7 @@ import { Observable } from 'rxjs';
 })
 export class HomeComponent {
   
-  
+  stockService: StockService = inject(StockService);
   items$: Observable<Item[]>;
   itemInput = new FormGroup({
     name: new FormControl<string>(""),
@@ -101,7 +103,7 @@ export class HomeComponent {
   }
 
   constructor(private http: HttpClient) {
-    this.items$ = this.getItems();
+    this.items$ = this.stockService.getAllItems();
   }
 
 

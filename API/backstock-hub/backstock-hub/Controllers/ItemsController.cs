@@ -56,5 +56,18 @@ namespace backstock_hub.Controllers
             return Ok();
 
         }
+
+        [HttpGet("{id:guid}")]
+        public IActionResult GetItemById(Guid id)
+        {
+            var item = dbContext.Items.FirstOrDefault(i => i.Id == id);
+
+            if (item == null)
+            {
+                return NotFound(new { Message = "Item not found." });
+            }
+
+            return Ok(item);
+        }
     }
 }

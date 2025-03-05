@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("backstock-hub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07a6fd46215fcebf0229ec37be474245df322e84")]
 [assembly: System.Reflection.AssemblyProductAttribute("backstock-hub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("backstock-hub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
