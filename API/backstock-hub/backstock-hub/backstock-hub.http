@@ -1,0 +1,6 @@
+@backstock_hub_HostAddress = http://localhost:5166
+
+GET {{backstock_hub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

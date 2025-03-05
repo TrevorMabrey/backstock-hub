@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|c:\\users\\user\\desktop\\backstock-hub\\backstock-hub\\api\\backstock-hub\\backstock-hub\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|solutionrelative:backstock-hub\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|c:\\users\\user\\desktop\\backstock-hub\\backstock-hub\\api\\backstock-hub\\backstock-hub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|solutionrelative:backstock-hub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|c:\\users\\user\\desktop\\backstock-hub\\backstock-hub\\api\\backstock-hub\\backstock-hub\\models\\additemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|solutionrelative:backstock-hub\\models\\additemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|c:\\users\\user\\desktop\\backstock-hub\\backstock-hub\\api\\backstock-hub\\backstock-hub\\models\\domain\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|solutionrelative:backstock-hub\\models\\domain\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|c:\\users\\user\\desktop\\backstock-hub\\backstock-hub\\api\\backstock-hub\\backstock-hub\\data\\backstock_hubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|solutionrelative:backstock-hub\\data\\backstock_hubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|c:\\users\\user\\desktop\\backstock-hub\\backstock-hub\\api\\backstock-hub\\backstock-hub\\backstock-hub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35A923CA-0A4A-41DB-8A04-A3785A043D43}|backstock-hub\\backstock-hub.csproj|solutionrelative:backstock-hub\\backstock-hub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddItemRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Models\\AddItemRequestDTO.cs",
+              "RelativeDocumentMoniker": "backstock-hub\\Models\\AddItemRequestDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Models\\AddItemRequestDTO.cs",
+              "RelativeToolTip": "backstock-hub\\Models\\AddItemRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:18:56.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "backstock-hub\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "backstock-hub\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:26:18.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Program.cs",
+              "RelativeDocumentMoniker": "backstock-hub\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Program.cs",
+              "RelativeToolTip": "backstock-hub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:16:28.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "backstock_hubDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Data\\backstock_hubDbContext.cs",
+              "RelativeDocumentMoniker": "backstock-hub\\Data\\backstock_hubDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Data\\backstock_hubDbContext.cs",
+              "RelativeToolTip": "backstock-hub\\Data\\backstock_hubDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:12:39.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "backstock-hub.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\backstock-hub.csproj",
+              "RelativeDocumentMoniker": "backstock-hub\\backstock-hub.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\backstock-hub.csproj",
+              "RelativeToolTip": "backstock-hub\\backstock-hub.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T09:11:45.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Models\\Domain\\Item.cs",
+              "RelativeDocumentMoniker": "backstock-hub\\Models\\Domain\\Item.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\backstock-hub\\backstock-hub\\API\\backstock-hub\\backstock-hub\\Models\\Domain\\Item.cs",
+              "RelativeToolTip": "backstock-hub\\Models\\Domain\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:58:46.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

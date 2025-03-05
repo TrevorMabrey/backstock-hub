@@ -1,0 +1,51 @@
+<h1 class="text-3xl font-bold underline">
+    Backstock Hub
+  </h1>
+<form (ngSubmit)="onFormSubmit()" [formGroup]="itemInput">
+    <div>
+        <label for="name">Name </label>
+        <input type="text" class="border-2 rounded-md" formControlName="name">
+        <label for="stock">Stock </label>
+        <input type="text" class="border-2 rounded-md" formControlName="stock">
+        <label for="category">Category </label>
+        <input type="text" class="border-2 rounded-md" formControlName="category">
+        <label for="itemsInBox">Items in Box </label>
+        <input type="text" class="border-2 rounded-md" formControlName="itemsInBox">
+    </div>
+    <div>
+        <button class="bg-gray-200 p-1 rounded-md m-2" type="submit">Add Item</button>
+    </div>
+    
+</form>
+<section class="cards flex items-center">
+@if (items$ | async;as items) {
+    @for (item of items; track $index) {
+        <div class="card">
+ 
+            
+                 
+                <article class="bg-gray-200 rounded-md p-4">
+                   <P class="font-bold">{{item.name}}</P>
+                   <P>stock: {{item.stock}}</P>
+                   <P>category: {{item.category}}</P>
+                   <P>Items in Box: {{item.itemsInBox}}</P>
+                   <div>
+                    <button type="button" class="text-red-600" (click)="onDelete(item.id)">Delete</button>
+                </div>
+                </article>
+                
+ 
+ 
+   
+</div>
+
+    }
+} @else {
+    <p>No Items Found</p>
+}
+</section>
+
+
+
+
+<router-outlet />
